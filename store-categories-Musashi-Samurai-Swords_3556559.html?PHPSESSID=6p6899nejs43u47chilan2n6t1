@@ -1,0 +1,408 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Musashi Samurai Swords</title>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<meta name="description" CONTENT="Musashi samurai swords offer excellent samurai swords, katana swords.">
+<meta name="keywords" CONTENT="samurai swords, katana swords, Musashi samurai swords">
+
+<SCRIPT type="text/javascript">
+<!-- 
+ function processForm(form,new_value) {
+   form.action.value ='/store/list_products/index.phtml';
+    form.method.value = "POST";
+   form.start_value.value = new_value;
+   form.submit();
+ }
+// --> 
+</SCRIPT>
+
+
+<link rel="stylesheet" type="text/css" href="/themes/tuxedo/cuff_links/stylesheet.css" />
+</head>
+<body style="background-color: #545454; margin: 0px; padding: 0px;">
+<table width="900" align="center" cellpadding="0" cellspacing="0" style="margin-top: 10px; margin-bottom: 10px;">
+	<tr>
+		<td width="100%" height="45" valign="top">    
+      <script type="text/javascript">
+        <!--
+        function reset_search(f){
+          f.already_submitted.value="0";
+        }
+        function submit_search(f){
+          if (f.already_submitted.value == "1"){
+            alert("Search in process.");
+            f.already_submitted.value="0";
+            return false;
+          } else {
+            f.already_submitted.value="1";
+            return true;
+          }
+        }
+        -->
+      </script>
+      <FORM ACTION="/store/list_products/" METHOD="GET" onsubmit="return submit_search(this);"><input type="hidden" name="PHPSESSID" value="so562l7a6emb4mlobli8m621d1" />
+      <input type="hidden" name="already_submitted" value="0">
+			<table cellpadding="0" cellspacing="0" border="0" class="top_table" height="45" width="100%">
+				<tr>
+					<td class="top_background_repeat">&nbsp;</td>
+					<td width="220" class="search_box top_background_repeat"><input type="text" size="16" name="search_desc" class="search-input" 
+					onChange="reset_search(this.form)"></td>
+					<td width="124" height="45" class="search_button top_background_repeat"><input type="image" 
+							src="/themes/tuxedo/cuff_links/search.gif?PHPSESSID=so562l7a6emb4mlobli8m621d1" width="64" height="20" alt="Search" border="0"></td>
+					<td width="120" height="45" class="view_cart top_background_repeat"><a href="/store/shopcart/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><img 
+							src="/themes/tuxedo/cuff_links/view_cart.gif" width="80" height="20" alt="View Cart" border="0" /></a></td>
+					<td width="180" height="45" class="checkout top_background_repeat"><a href="/store/checkout/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><img 
+							src="/themes/tuxedo/cuff_links/checkout.gif" width="80" height="20" alt="Checkout" border="0" /></a></td>
+					<td width="208" height="45" class="top_right_image"><img src="/admin/images/spacer.gif" width="208" height="45" /></td>
+				</tr>
+			</table><div style="display: none;"></form></div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" height="100%" valign="top">
+			<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" valign="top">
+				<tr>
+					<td valign="top" class="left_nav" width="167" height="100%">
+						<div class="nav">
+							<A HREF="/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><strong>Home</strong></A><BR>
+<A HREF="/japanese_art/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Japanese Art</strong></A><BR>
+<A HREF="/exclusive_katana_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Exclusive Katana Swords</strong></A><BR>
+<A HREF="/assemble_yourself_katana_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Assemble Your Own Katana Swords</strong></A><BR>
+<A HREF="/bokken_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Bokken Swords</strong></A><BR>
+<A HREF="/bushido_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Bushido Samurai Swords</strong></A><BR>
+<A HREF="/cold_steel_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Cold Steel Swords</strong></A><BR>
+<A HREF="/decorative_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Decorative & Movie Swords</strong></A><BR>
+<A HREF="/handmade_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Handmade Swords</strong></A><BR>
+<A HREF="/hanwei_paul_chen_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Hanwei Paul Chen Swords</strong></A><BR>
+<A HREF="/masahiro_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Masahiro Samurai Swords</strong></A><BR>
+<A HREF="/musashi_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Musashi and Musha Katana Swords</strong></A><BR>
+<A HREF="/rittersteel_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Rittersteel Samurai Swords</strong></A><BR>
+<A HREF="/ryumon_samurai_swords/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Ryumon Samurai Swords</strong></A><BR>
+<A HREF="/thaitsuki_samurai_sword/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Thaitsuki Samurai Swords</strong></A><BR>
+<A HREF="/kendo_equipment/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Kendo Equipment</strong></A><BR>
+<A HREF="/hakama/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Hakama</strong></A><BR>
+<A HREF="/throwing-weapons/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Throwing Weapons</A><BR>
+<A HREF="/samurai_sword_tsubas/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Tsubas</strong></A><BR>
+<A HREF="/samurai_sword_cutting_mats_and_stands/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Tameshigiri Mats and Stands</strong></A><BR>
+<A HREF="/samurai_sword_maintenance_kits/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Sword Maintenance Kits</strong></A><BR>
+<A HREF="/sword_bags/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Sword Bags</strong></A><BR>
+<A HREF="/samurai_sword_stands_and_accessories/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Sword Stands & Accessories</strong></A><BR>
+<A HREF="/sword_articles/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Sword Articles & Videos</strong></A><BR>
+<A HREF="/testimonials/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Testimonials</strong></A><BR>
+<A HREF="/store_policies/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Store Policies</strong></A><BR>
+<A HREF="/privacy_policy/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Privacy Policy</strong></A><BR>
+<A HREF="/contact_us/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Contact Us</strong></A><BR>
+<A HREF="/about_us/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>About Us</strong></A><BR>
+<A HREF="/related_links/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Related Links</strong></A><BR>
+<A HREF="/sitemap/?PHPSESSID=so562l7a6emb4mlobli8m621d1"><p><strong>Sitemap</strong></A><BR>
+
+								<span valign="bottom" class="cart">
+								Items: 0<BR>
+Total: $0.00<BR>
+
+								</span>
+						</div>
+					</td>
+					<td class="content" valign="top" width="100%" height="100%">
+						<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="100%" height="50" valign="top" border="0" style="background-color: #FFFFFF;">
+									<DIV ALIGN="center"><A HREF="http://www.samuraisupply.com/index.html"><IMG SRC="/image_manager/company_logo.jpg" width="800" height="175" BORDER="0" ALT="Samurai Supply"></A></DIV>
+
+								</td>
+							</tr>
+							<tr>
+								<td width="100%" height="100%" valign="top" style="background-color: #FFFFFF;">
+									<TABLE>
+<TR>
+  <TD VALIGN="TOP" width="80%" align="left">
+  <IMG SRC="/themes/tuxedo/cuff_links/store/category.gif" width="110" height="27" BORDER="0" ALT=""><BR>
+<SPAN CLASS="category_seperator"><a href="http://www.samuraisupply.com"  CLASS="category_link">Home</a> > <a href="http://www.samuraisupply.com/store/"  CLASS="category_link">Store</a> > <A HREF="/store-categories-Musashi-Samurai-Swords_3556559.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_link"><SPAN CLASS="category_link">Musashi Samurai Swords</SPAN></A></SPAN><br>
+<table width="100%" cellpadding="0" cellspacing="2">
+  <tr>
+    <td valign="top" width="50%">
+    </td>
+    <td align="right" valign="top">
+    </td>
+  </tr>
+</table>
+  <BR>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR CLASS="tablebgcolor">
+    <TD COLSPAN="6">
+  <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="2">
+  <TR>
+    <TD CLASS="tablefooter">&nbsp;&nbsp;&nbsp;&nbsp&nbsp;Page 1 of 4</TD>
+    <TD ALIGN="RIGHT" CLASS="tablefooter">
+ <b><A HREF="javascript: processForm(document.listform,'0');" CLASS="prevnext">1</a></b> <A HREF="javascript: processForm(document.listform,'16');" CLASS="prevnext">2</a> <A HREF="javascript: processForm(document.listform,'32');" CLASS="prevnext">3</a> <A HREF="javascript: processForm(document.listform,'48');" CLASS="prevnext">4</a>&nbsp;&#183;&nbsp;&nbsp;<A HREF="javascript: processForm(document.listform,'16');" CLASS="prevnext">Next</A>
+    </TD>
+  </TR>
+</TABLE>
+ </TD>
+</TR>
+<TR><TD colspan=6><table border="0"><tr>    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-OA003-Musashi-Bamboo-Fan_42640910.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musashi Bamboo Fan</font></A><br>
+    <img src='/themes/common/transparent_pixel.gif' ALT='' height='25'><br><A HREF='/store-products-OA003-Musashi-Bamboo-Fan_42640910.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="65" SRC="/image_manager/attributes/image/image_1/42640910_10242192.jpg" BORDER=0 ALT="OA003 - Musashi Bamboo Fan"></a><br>$14.99<br>
+<A HREF="/store/shopcart/?product_id=42640910&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SC117-1-Musashi-Spring-Steel-Tai-Chi-Sword_42647739.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musashi Spring Steel Tai Chi Sword</font></A><br>
+    <img src='/themes/common/transparent_pixel.gif' ALT='' height='7'><br><A HREF='/store-products-SC117-1-Musashi-Spring-Steel-Tai-Chi-Sword_42647739.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="83" SRC="/image_manager/attributes/image/image_2/42647739_10249328.jpg" BORDER=0 ALT="SC117-1 - Musashi Spring Steel Tai Chi Sword"></a><br>$30.99<br>
+<A HREF="/store/shopcart/?product_id=42647739&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SF6247-Musashi-No-Shana-Anime-Sword_42113884.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musashi No Shana Anime Sword</font></A><br>
+    <A HREF='/store-products-SF6247-Musashi-No-Shana-Anime-Sword_42113884.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_3/42113884_9817076.jpg" BORDER=0 ALT="SF6247 - Musashi No Shana Anime Sword"></a><br>$59.99<br>
+<A HREF="/store/shopcart/?product_id=42113884&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS007BD-1-Musha-Horse-Raider-Katana-Sword_42640905.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Horse Raider Katana Sword</font></A><br>
+    <A HREF='/store-products-SS007BD-1-Musha-Horse-Raider-Katana-Sword_42640905.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_5/42640905_4237362542.jpg" BORDER=0 ALT="SS007BD-1 - Musha Horse Raider Katana Sword"></a><br>$59.99<br>
+<A HREF="/store/shopcart/?product_id=42640905&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+
+  </TR>
+  <TR>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS007BK-1-Musha-Kishu-Katana-Sword_42640928.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Kishu Katana Sword</font></A><br>
+    <A HREF='/store-products-SS007BK-1-Musha-Kishu-Katana-Sword_42640928.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_1/42640928_4237366066.jpg" BORDER=0 ALT="SS007BK-1 - Musha Kishu Katana Sword"></a><br>$49.99<br>
+<A HREF="/store/shopcart/?product_id=42640928&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS009BK-1-Musashi-Okina-Katana-Sword_42640939.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musashi Okina Katana Sword</font></A><br>
+    <A HREF='/store-products-SS009BK-1-Musashi-Okina-Katana-Sword_42640939.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_1/42640939_4237366075.jpg" BORDER=0 ALT="SS009BK-1 - Musashi Okina Katana Sword"></a><br>$51.99<br>
+<A HREF="/store/shopcart/?product_id=42640939&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS010BK-1-Musashi-Bushido-Katana-Sword_1095019925.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musashi Bushido Katana Sword</font></A><br>
+    <A HREF='/store-products-SS010BK-1-Musashi-Bushido-Katana-Sword_1095019925.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_100/1095019925_4238080622.jpg" BORDER=0 ALT="SS010BK-1 - Musashi Bushido Katana Sword"></a><br>$59.99<br>
+<A HREF="/store/shopcart/?product_id=1095019925&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS011BK-1-Musha-Ichidou-Katana-Sword_42640913.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Ichidou Katana Sword</font></A><br>
+    <A HREF='/store-products-SS011BK-1-Musha-Ichidou-Katana-Sword_42640913.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_5/42640913_4237309178.jpg" BORDER=0 ALT="SS011BK-1 - Musha Ichidou Katana Sword"></a><br>$59.99<br>
+<A HREF="/store/shopcart/?product_id=42640913&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+
+  </TR>
+  <TR>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS028BK-1C-Musha-Kill-Bill-Sword_42640924.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Kill Bill Sword</font></A><br>
+    <A HREF='/store-products-SS028BK-1C-Musha-Kill-Bill-Sword_42640924.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_1/42640924_4237366062.jpg" BORDER=0 ALT="SS028BK-1C - Musha Kill Bill Sword"></a><br>$51.99<br>
+<A HREF="/store/shopcart/?product_id=42640924&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS028BK-C-Musha-Kill-Bill-Bride-Sword_42640917.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Kill Bill Bride Sword</font></A><br>
+    <A HREF='/store-products-SS028BK-C-Musha-Kill-Bill-Bride-Sword_42640917.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_2/42640917_4237366054.jpg" BORDER=0 ALT="SS028BK-C - Musha Kill Bill Bride Sword"></a><br>$51.99<br>
+<A HREF="/store/shopcart/?product_id=42640917&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS030SL-1-Musashi-Ninja-Sword_41892086.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musashi Ninja Sword</font></A><br>
+    <A HREF='/store-products-SS030SL-1-Musashi-Ninja-Sword_41892086.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_1/41892086_9614176.jpg" BORDER=0 ALT="SS030SL-1 - Musashi Ninja Sword"></a><br>$60.00<br>
+<A HREF="/store/shopcart/?product_id=41892086&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS043BK-Musha-Crane-Katana-Sword_42015487.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Crane Katana Sword</font></A><br>
+    <A HREF='/store-products-SS043BK-Musha-Crane-Katana-Sword_42015487.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_1/42015487_4236466744.jpg" BORDER=0 ALT="SS043BK - Musha Crane Katana Sword"></a><br>$50.00<br>
+<A HREF="/store/shopcart/?product_id=42015487&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+
+  </TR>
+  <TR>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS070BK-Musha-Asuka-Tanto_42633920.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Asuka Tanto</font></A><br>
+    <A HREF='/store-products-SS070BK-Musha-Asuka-Tanto_42633920.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_4/42633920_4237363534.jpg" BORDER=0 ALT="SS070BK - Musha Asuka Tanto"></a><br>$98.00<br>
+<A HREF="/store/shopcart/?product_id=42633920&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS070GN-Musha-Asuka-Tanto---Green_42633924.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Asuka Tanto - Green</font></A><br>
+    <A HREF='/store-products-SS070GN-Musha-Asuka-Tanto---Green_42633924.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_1/42633924_4237362177.jpg" BORDER=0 ALT="SS070GN - Musha Asuka Tanto - Green"></a><br>$98.00<br>
+<A HREF="/store/shopcart/?product_id=42633924&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS070RD-Musha-Asuka-Tanto---Red_42633925.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musha Asuka Tanto - Red</font></A><br>
+    <img src='/themes/common/transparent_pixel.gif' ALT='' height='15'><br><A HREF='/store-products-SS070RD-Musha-Asuka-Tanto---Red_42633925.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="75" SRC="/image_manager/attributes/image/image_2/42633925_4237362178.jpg" BORDER=0 ALT="SS070RD - Musha Asuka Tanto - Red"></a><br>$98.00<br>
+<A HREF="/store/shopcart/?product_id=42633925&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+    <TD class=tablecontent valign=bottom align=center width='100'>
+    <A HREF="/store-products-SS071-Musashi-Natural-Wood-Tanto_42633914.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="showlink"><font size=1>Musashi Natural Wood Tanto</font></A><br>
+    <A HREF='/store-products-SS071-Musashi-Natural-Wood-Tanto_42633914.html?PHPSESSID=so562l7a6emb4mlobli8m621d1' CLASS='showlink'> <IMG width="100" height="100" SRC="/image_manager/attributes/image/image_4/42633914_10234475.jpg" BORDER=0 ALT="SS071 - Musashi Natural Wood Tanto"></a><br>$50.00<br>
+<A HREF="/store/shopcart/?product_id=42633914&amp;add=1&PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="buy_link"><IMG SRC="/themes/tuxedo/cuff_links/store/add_to_cart.gif" BORDER=0 ALT=""></A><BR>
+    </TD>
+</tr></table></td></tr><TR CLASS="tablebgcolor">
+    <TD COLSPAN="6">
+  <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="2">
+  <TR>
+    <TD CLASS="tablefooter">&nbsp;&nbsp;&nbsp;&nbsp&nbsp;Page 1 of 4</TD>
+    <TD ALIGN="RIGHT" CLASS="tablefooter">
+ <b><A HREF="javascript: processForm(document.listform,'0');" CLASS="prevnext">1</a></b> <A HREF="javascript: processForm(document.listform,'16');" CLASS="prevnext">2</a> <A HREF="javascript: processForm(document.listform,'32');" CLASS="prevnext">3</a> <A HREF="javascript: processForm(document.listform,'48');" CLASS="prevnext">4</a>&nbsp;&#183;&nbsp;&nbsp;<A HREF="javascript: processForm(document.listform,'16');" CLASS="prevnext">Next</A>
+    </TD>
+  </TR>
+</TABLE>
+ </TD>
+</TR>
+</TABLE>
+<FORM NAME="listform" ACTION="/store/list_products/index.phtml" METHOD="get"><input type="hidden" name="PHPSESSID" value="so562l7a6emb4mlobli8m621d1" />
+<INPUT TYPE="Hidden" NAME="start_value" VALUE="0">
+<INPUT TYPE="Hidden" NAME="category_id" VALUE="3556559">
+<input type="hidden" name="sales_volume" value="">
+<input type="hidden" name="sales_dollar" value="">
+<input type="hidden" name="search_price_max" value="">
+<input type="hidden" name="search_price_min" value="">
+<INPUT TYPE="Hidden" NAME="search_desc" VALUE="">
+<INPUT TYPE="Hidden" NAME="product_number" VALUE="">
+</FORM>
+  </TD>
+  <TD ALIGN="CENTER" VALIGN="TOP">
+  <BR>
+  <TABLE BORDER="0" CELLPADDING="1" CELLSPACING="0">
+  <TR>
+    <TD BGCOLOR="#000000">
+    <TABLE BORDER="0" CELLPADDING="10" CELLSPACING="0">
+    <TR>
+      <TD BGCOLOR="#FFFFFF">
+<B>Categories:</B><BR><BR>
+<A HREF="/store-categories-Assemble-Yourself-Katana-Swords_3553436.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Assemble Yourself Katana Swords</A><BR>
+<A HREF="/store-categories-Bokken-Samurai-Swords_3556081.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Bokken Samurai Swords</A><BR>
+<A HREF="/store-categories-Bushido-Samurai-Swords_3553589.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Bushido Samurai Swords</A><BR>
+<A HREF="/store-categories-Cold-Steel-Samurai-Swords_3553591.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Cold Steel Samurai Swords</A><BR>
+<A HREF="/store-categories-Decorative-Swords_3556061.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Decorative Swords</A><BR>
+<A HREF="/store-categories-Handmade-Samurai-Swords_3556297.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Handmade Samurai Swords</A><BR>
+<A HREF="/store-categories-Hanwei-Paul-Chen-Swords_3556313.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Hanwei Paul Chen Swords</A><BR>
+<A HREF="/store-categories-International-Orders_3686088.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">International Orders</A><BR>
+<A HREF="/store-categories-Japanese-Art_4123993.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Japanese Art</A><BR>
+<A HREF="/store-categories-Katsumoto-Samurai-Swords_3556575.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Katsumoto Samurai Swords</A><BR>
+<A HREF="/store-categories-Kawashima-Samurai-Swords_3557002.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Kawashima Samurai Swords</A><BR>
+<A HREF="/store-categories-Kendo-Equipment-and-Supplies_4088340.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Kendo Equipment and Supplies</A><BR>
+<A HREF="/store-categories-Masahiro-Samurai-Swords_3556557.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Masahiro Samurai Swords</A><BR>
+<A HREF="/store-categories-Musashi-Samurai-Swords_3556559.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Musashi Samurai Swords</A><BR>
+<A HREF="/store-categories-Rittersteel-Samurai-Swords_3580052.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Rittersteel Samurai Swords</A><BR>
+<A HREF="/store-categories-Ryumon-Samurai-Swords_3557003.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Ryumon Samurai Swords</A><BR>
+<A HREF="/store-categories-Samurai-Sword-Accessories_3881749.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Samurai Sword Accessories</A><BR>
+<A HREF="/store-categories-Samurai-Sword-Cutting-Mats-and-Stands_3585567.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Samurai Sword Cutting Mats and Stands</A><BR>
+<A HREF="/store-categories-Samurai-Sword-Maintenance-Kits_3585563.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Samurai Sword Maintenance Kits</A><BR>
+<A HREF="/store-categories-Samurai-Sword-Tsuba_3585561.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Samurai Sword Tsuba</A><BR>
+<A HREF="/store-categories-Sword-Bags_3685808.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Sword Bags</A><BR>
+<A HREF="/store-categories-Thaitsuki-Samurai-Sword_3580115.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Thaitsuki Samurai Sword</A><BR>
+<A HREF="/store-categories-Throwing-Weapons_3838151.html?PHPSESSID=so562l7a6emb4mlobli8m621d1" CLASS="category_list_link">Throwing Weapons</A><BR>
+      <BR>
+      </TD>
+    </TR>
+    </TABLE>
+    </TD>
+  </TR>
+  </TABLE>
+  </TD>
+</TR>
+</TABLE>
+
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="contact_bar" valign="top"><div class="contact_info">MJ Janis LLC<BR>
+113 Madelyn Rose <BR>
+ Bayview, TX &nbsp;78566<BR>
+U.S.A.<BR>
+Toll Free: 1-888-251-8246<BR>
+<script LANGUAGE="JavaScript"><!-- BEGIN Script
+  function fix_addr(){ 
+    var fix1,fix2,fix3,fix4;
+    fix1 = "<a href=";
+    fix1 += '?PHPSESSID=so562l7a6emb4mlobli8m621d1"mai';
+    fix1 += 'lto:';
+    fix2 = '';
+  fix2 += 'i';
+  fix2 += 'n';
+  fix2 += 'f';
+  fix2 += 'o';
+  fix2 += '@';
+  fix2 += 's';
+  fix2 += 'a';
+  fix2 += 'm';
+  fix2 += 'u';
+  fix2 += 'r';
+  fix2 += 'a';
+  fix2 += 'i';
+  fix2 += 's';
+  fix2 += 'u';
+  fix2 += 'p';
+  fix2 += 'p';
+  fix2 += 'l';
+  fix2 += 'y';
+  fix2 += '.';
+  fix2 += 'c';
+  fix2 += 'o';
+  fix2 += 'm';
+    fix3 = '';
+    fix3 += '">';
+  fix3 += 'i';
+  fix3 += 'n';
+  fix3 += 'f';
+  fix3 += 'o';
+  fix3 += '@';
+  fix3 += 's';
+  fix3 += 'a';
+  fix3 += 'm';
+  fix3 += 'u';
+  fix3 += 'r';
+  fix3 += 'a';
+  fix3 += 'i';
+  fix3 += 's';
+  fix3 += 'u';
+  fix3 += 'p';
+  fix3 += 'p';
+  fix3 += 'l';
+  fix3 += 'y';
+  fix3 += '.';
+  fix3 += 'c';
+  fix3 += 'o';
+  fix3 += 'm';
+    fix4 = '</a>';
+    document.write(fix1+fix2+fix3+fix4);
+  }
+fix_addr();
+//END --></script>
+<br>
+<br><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8832812-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<img src="/store/images/mastercard.gif"> 
+<img src="/store/images/visa.gif"> 
+<img src="/store/images/discover.gif"> 
+<img src="/store/images/paypal.gif"> 
+<img src="/store/images/paypal_verified.gif"> 
+ <br>
+&copy; Copyright 2010 - MJ Janis LLC<BR>
+<A HREF="/privacy_policy/?PHPSESSID=so562l7a6emb4mlobli8m621d1">Privacy Policy</A><BR>
+</div></td>
+	</tr>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-8832812-1");
+pageTracker._setDomainName("samuraisupply.com");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>

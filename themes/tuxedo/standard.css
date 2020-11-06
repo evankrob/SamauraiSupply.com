@@ -1,0 +1,325 @@
+@charset "UTF-8";
+
+/* HTML5 table resets */
+.nospace { border-collapse: collapse; }
+.nospace tr td { padding: 0px; }
+.stretch_height {}
+.nostretch_height { height: 1px; }
+.nospaceimg { display: block; }
+
+/* Class to style new logo text feature */
+.company_name { 
+	color: #000000 !important; 
+	font-family: arial !important; 
+	font-size: 36pt !important; 
+	font-weight: bold !important; 
+	text-decoration: none !important; 
+}
+
+/* Fix for hot offer image border in IE */
+img { border: 0 !important }
+
+/* Store and specials styles */
+.specials { margin-right: 5px; }
+.specials h1 { border: solid 1px #666666; border-bottom: none; border-radius: 5px 5px 0 0; margin: 0;}
+.specials table { border: solid 1px #666666; border-collapse: collapse; width: 100%; }
+.specials .paging td { font-size: 1.1em; font-weight: bold; padding: 10px 5px; text-align: right; white-space: nowrap; }
+.specials .paging td:first-child { text-align: left; }
+.specials .prevnext { font-size: 1.1em; font-weight: bold; color: red; margin: 0 6px; }
+.specials .product { border: solid 1px #666666; vertical-align: bottom; text-align: center; }
+.specials .product a { display: block; }
+.specials .product div { font-weight: bold; padding: 10px 0; }
+
+.showlink { padding: 10px 0; text-align: center; }
+
+img.top_left_corner { left: -1% !important; top: -1% !important; }
+
+/* Theme specific style fixes */
+
+div.nav { padding-top: 40px; padding-bottom: 20px; }
+
+.nav_menu li:hover a, .nav_accordion li:hover a { color: #000 !important; }
+
+.nav_menu a, .nav_accordion a{
+	border: 0 !important;
+	display: block;
+	font: 10pt/20px verdana !important;
+	text-decoration: none;
+}
+
+.specials img { display: inline !important; }
+
+.inlineimg img { display: inline; }
+
+td[bgcolor="#000000"] {
+	background: #FFF;
+	background-color: transparent;
+}
+
+.body_content_table { padding-top: 10px; }
+
+/* Begin Standard Navigation Menu. */
+ul.nav_menu, .nav_menu ul
+{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	text-align: left;
+	width: 100%;
+	min-width: 150px;
+}
+.nav_menu > li
+{
+	border: solid 1px #666666;
+	border-radius: 5px 5px 5px 5px;
+	font-weight: bold;
+	padding: 4px 12px;
+	position: relative;
+	list-style-type: none;
+	margin: 0;
+	white-space: nowrap;
+}
+.nav_menu ul
+{
+	position: absolute;
+	top: 0;
+}
+.nav_menu ul:before
+{
+	content: "\25BA";	/* " ► " , "\25BA" both ways to display a right arrow */
+	font-size: 0.8em;
+	color: #666666;
+	position: absolute;
+	top: 6px;
+	right: 12px;
+}
+.nav_menu > li li
+{
+	display: none;
+}
+
+.nav_menu li:hover > ul > li {
+	padding: 4px 12px;
+	border-bottom: 1px solid #666666;
+}
+
+.nav_menu li:hover
+{
+	background-color: #FFFFFF;
+}
+
+.nav_menu li:hover > ul > li:first-child:hover {
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+}
+
+.nav_menu li:hover > ul > li:last-child:hover {
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+.nav_menu li:hover > ul > li:hover {
+	background-color: #666666;
+}
+
+.nav_menu li:hover > ul
+{
+	left: 100%;
+	z-index: 9999;
+	width: auto;
+	border: 1px solid #666666;
+	border-radius: 5px 5px 5px 5px;
+	background-color: #FFFFFF;
+	
+	box-shadow: 0px 0px 10px #000000;
+}
+
+.nav_menu li:hover > ul:before
+{
+	content: "";
+}
+.nav_menu li:hover > ul > li
+{
+	display: block;
+}
+
+.nav_menu li:hover > ul > li:before
+{
+	background-color: #666666;
+	content: "";
+	display: block;
+	margin: auto;
+}
+.nav_menu li:hover > ul > li:first-child:before
+{
+	display: none;
+}
+
+.nav_menu li:hover > ul li a {
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;	/* SYNTAX - text-overflow: clip|ellipsis|string; */
+}
+
+	/* Begin horizontal specialization */
+	.nav_horizontal .nav_menu
+	{
+		height: 22px;
+		width: inherit;
+	}
+	.nav_horizontal .nav_hover > li:hover {
+		background-color: #666666;
+	}
+	.nav_horizontal .nav_hover > li {
+		padding-right: 12px;
+		margin-right:  4px;
+	}
+	.nav_horizontal .nav_menu > li
+	{
+		display: inline-block;
+	}
+	.nav_horizontal .nav_menu > li > ul:before
+	{
+		content: "";
+	}
+	.nav_horizontal .nav_menu > li:hover > ul
+	{
+		left: inherit;
+		top: 100%;
+	}
+	.nav_horizontal .nav_menu > li:hover > ul:before
+	{
+		content: "";
+	}
+	td.footer .nav_hover { text-align: center; }
+	.footer ul.nav_menu > li {
+		padding-top: 0;
+		padding-bottom: 0;
+		border-radius: 0;
+		border-top: 0;
+		border-left: 0;
+		border-bottom: 0;
+		border-right: 1px solid #666666;
+	}
+	.footer ul.nav_menu > li:last-child {
+		border-right: 0;
+	}
+	.footer ul.nav_menu > li:hover {
+		background-color: #FFFFFF;
+	}
+	
+	/* End horizontal specialization */
+/* End Standard Navigation Menu. */
+
+/* Nav accordion styles */
+.nav_accordion
+{
+	margin: 0;
+	padding: 0;
+	width: 100%; 
+	min-width: 150px;
+}
+.nav_accordion ul
+{
+	display: none;
+	margin: 0;
+	padding: 0 0 0 15px;
+}
+.nav_accordion > li, .nav_accordion li.has_children
+{
+	border: solid 1px #666666;
+	border-radius: 5px;
+	position: relative;
+}
+.nav_accordion > li:hover { color: #000000 !important; background-color: white; opacity: 0.8; }
+.nav_accordion > li.has_children > ul > li { padding-left: 6px; } 
+.nav_accordion > li > a, .nav_accordion li.has_children > a,
+.nav_accordion > li > a:hover, .nav_accordion li.has_children > a:hover
+{
+	border: none;
+	outline: none;
+}
+.nav_accordion li
+{
+	list-style: none;
+	margin: 0;
+	padding: 4px 12px;
+}
+.nav_accordion li.has_children:before
+{
+	content: "\25BA";	/* " ► " , "\25BA" both ways to display a right arrow */
+	font-size: 0.8em;
+	color: #666666;
+	position: absolute;
+	right: 0;
+	top: 6px;
+	cursor: pointer;
+}
+.nav_accordion li.expanded:before
+{
+	content: "\25BC";	/* "▼" , "\25BC" both ways to display a right arrow */
+}
+
+.nav_accordion li.expanded > a:after
+{
+	content: "";
+	border-bottom: dotted 1px #666666;
+	display: block;
+	margin: 3px 18px 0;
+	padding: 0 3px 0 0;
+	width: 80%
+}
+
+	/* Safari tweak to get rid of the style above because it doesn't work right in Safari... */
+	@media screen and (-webkit-min-device-pixel-ratio:0)	{
+		.nav_accordion li.expanded > a:after { 
+			border-bottom: 0;
+			margin: 0;
+			padding: 0;
+		}
+	}
+/* End nav accordion styles */
+
+/* Nav 2-tier styles */
+.nav_tier
+{
+	display: none;
+}
+.nav_tier_top
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.nav_tier_top li
+{
+	display: inline-block;
+	margin: 0;
+	padding: 6px;
+}
+.nav_tier_top li.selected
+{
+	background-color: #E7E7E7;
+	border: 1px solid #666;
+	margin-left: 10px;
+}
+ul.nav_tier_bottom
+{
+	border: solid 1px #666666;
+	border-radius: 15px 15px 15px 15px;
+	display: none;
+	padding: 0 24px;
+	position: relative;
+	top: -1px;
+}
+ul.nav_tier_bottom > li { 
+	border: 0;
+	padding-top: 3px !important;  
+}
+
+ul.nav_tier_bottom > li:hover { background-color: transparent; }
+
+/* End nav 2-tier styles */
+
+
+

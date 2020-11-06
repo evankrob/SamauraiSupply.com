@@ -1,0 +1,113 @@
+<SCRIPT LANGUAGE = "JavaScript">
+<!-- 
+	function OpenImageWindow(url,id,width,height) {
+		var rand_name = 'image_'+id;
+		width = (width  - 0) + 20;
+		height = (height  - 0) + 20;
+		newWindow = window.open(url, rand_name,"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0, resizable=0,width="+width+",height="+height,'true');
+		newWindow.window.focus();
+	}
+	function OpenWindow(url, id) {
+		var rand_name = 'image_'+id;
+		window.open(url, rand_name);
+	}
+// -->
+</SCRIPT>
+<form method="POST">
+	<input type="hidden" name="do_login" value="1">
+	<input type="hidden" name="product_id" value="">
+	<table border="0" cellpadding="0" cellspacing="2" width="90%">
+		<tr>
+			<td colspan="3">
+			<h3>Login</h3>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<h4>If you have a Wish List, login here:</h4>
+			</td>
+		</tr>
+		<tr>
+			<td class="form_label_header" align="right" valign="middle" width="33%">
+			Email/Login ID:
+			</td>
+			<td class="form_label" valign="middle" width="67%">
+				<input type="text" size="35" name="login_fields[login_id]" value="">
+				&nbsp;<input type="submit" name="login" value="Login">
+			</td>
+			<td class="form_label" width="33%">
+				&nbsp;
+			</td>
+		</tr>
+	</table>
+</form>
+<hr width="90%" noshade>
+<form method="POST">
+	<input type="hidden" name="do_register" value="1">
+	<input type="hidden" name="product_id" value="">
+	<input type="hidden" name="register_fields[store_id]" value="">
+	<table border="0" cellpadding="0" cellspacing="2" width="90%">
+		<tr>
+			<td colspan="3">
+			<h3>Register</h3>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<h4>If this is your first time using the Wish List, please fill out your information below<br> Fields with an asterisk (<font color="#FF0000"><sup>*</sup></font>) are required:</h4>
+			</td>
+		</tr>
+		<tr>
+			<td align="right" class="form_label_header" width="33%">
+			First Name:<font color="#FF0000"><sup>*</sup></font>
+			</td>
+			<td class="form_label" width="33%">
+				<input type="text" size="35" name="register_fields[first_name]" value="">
+			</td>
+			<td class="form_label" width="33%">
+				&nbsp;
+			</td>
+		</tr>
+		<tr>
+			<td align="right" class="form_label_header">
+			Last Name:<font color="#FF0000"><sup>*</sup></font>
+			</td>
+			<td class="form_label">
+				<input type="text" size="35" name="register_fields[last_name]" value="">
+			</td>
+			<td class="form_label">
+				&nbsp;
+			</td>
+		</tr>
+		<tr>
+			<td align="right" class="form_label_header">
+			Email(Becomes your Login ID):<font color="#FF0000"><sup>*</sup></font>
+			</td>
+			<td class="form_label">
+				<input type="text" size="35" name="register_fields[email]" value="">
+			</td>
+			<td class="form_label">
+				&nbsp;
+			</td>
+		</tr>
+		<tr>
+			<td align="right" class="form_label_header">
+			Confirm Email:<font color="#FF0000"><sup>*</sup></font>
+			</td>
+			<td class="form_label">
+				<input type="text" size="35" name="register_fields[email_confirm]" value="">
+			</td>
+			<td class="form_label">
+				&nbsp;
+			</td>
+		</tr>
+		<tr>
+			<td align="right" colspan="2" class="form_label">
+			<input type="submit" name="login" value="Register Now">
+			</td>
+			<td class="form_label">
+				&nbsp;
+			</td>
+		</tr>
+	</table>
+</form>

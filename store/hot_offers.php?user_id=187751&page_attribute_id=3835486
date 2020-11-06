@@ -1,0 +1,123 @@
+document.write('<table class=\'hot_offers\' cellspacing=\'0\' cellpadding=\'4\' border=\'2\' align=\'none\'><caption style=\'display: none;\'><a class=\'hot_offers_prev\' href=\'javascript:void(0);\'>&larr;Prev</a> <a class=\'hot_offers_next\' href=\'javascript:void(0);\'>Next&rarr;</a></caption></tr></table>');
+
+var hot_offers = {
+
+	pager: {
+		$previous: $("table.hot_offers caption .hot_offers_prev"),
+		$next: $("table.hot_offers caption .hot_offers_next"),
+		page: 1,
+		pages: 1,
+		rowsPerPage: 2,
+		
+		setVisibleRows: function() {
+			var startIndex = hot_offers.pager.rowsPerPage * (hot_offers.pager.page - 1);
+			var endIndex = startIndex + hot_offers.pager.rowsPerPage;
+			$("table.hot_offers tr").hide().slice(startIndex, endIndex).show();
+		},
+		
+		setVisibleButtons: function() {
+			if (hot_offers.pager.page <= 1)
+				hot_offers.pager.$previous.hide();
+			else
+				hot_offers.pager.$previous.show();
+				
+			if (hot_offers.pager.page < hot_offers.pager.pages)
+				hot_offers.pager.$next.show();
+			else
+				hot_offers.pager.$next.hide();
+		},
+		
+		initialize: function(rowsPerPage, pages) {
+			hot_offers.pager.pages = pages;
+			hot_offers.pager.rowsPerPage = rowsPerPage;
+			
+			hot_offers.pager.setVisibleRows();
+			$("table.hot_offers caption").show();
+			hot_offers.pager.$previous.hide();
+			hot_offers.pager.$next.show();
+			
+			hot_offers.pager.$previous.click(hot_offers.pager.previousButton_Click);
+			
+			hot_offers.pager.$next.click(hot_offers.pager.nextButton_Click);
+		},
+		
+		previousButton_Click: function(e) {
+			e.preventDefault();
+			$("table.hot_offers tr").hide();
+			hot_offers.pager.page--;
+			hot_offers.pager.setVisibleRows();
+			hot_offers.pager.setVisibleButtons();
+		},
+		
+		nextButton_Click: function(e) {
+			e.preventDefault();
+			$("table.hot_offers tr").hide();
+			hot_offers.pager.page++;
+			
+			hot_offers.pager.setVisibleRows();
+			hot_offers.pager.setVisibleButtons();
+		}
+	},
+	
+	slider: {
+		visibleItems: 1,
+		
+		initialize: function(visibleItems) {
+			hot_offers.slider.visibleItems = visibleItems;
+			
+			var cellWidth = $("table.hot_offers td").width();
+			
+			var cells = $("table.hot_offers td").detach();
+			$("table.hot_offers tr").detach();
+			$("table.hot_offers").append("<tr></tr>");
+			$("table.hot_offers tr").append(cells);
+			$("table.hot_offers").css("position", "relative");
+			$("table.hot_offers").parent().append("<table id='hot_offers_slider'><tr><td id='hot_offer_left'></td><td><div style='overflow: hidden; width: " + cellWidth * visibleItems + "px;'></div></td><td id='hot_offer_right'></td></tr></table>");
+			var hotOffersTable = $("table.hot_offers").detach();
+			$("#hot_offers_slider div").append(hotOffersTable);
+			
+			var slideHandle = null;
+			$("#hot_offer_left").mousedown(function(e) {
+				e.preventDefault();
+				var $hot_offers = $("table.hot_offers");
+				slideHandle = setInterval(function() {
+					var currentLeft = parseInt($hot_offers.css("left"));
+					if (currentLeft <= 0)
+						$hot_offers.css("left", (currentLeft + 15) + "px");
+				}, 50);
+			});
+			
+			$("#hot_offer_right").mousedown(function(e) {
+				e.preventDefault();
+				var $hot_offers = $("table.hot_offers");
+				var numberOfCells = $("table.hot_offers td").length;
+				slideHandle = setInterval(function() {
+					var currentLeft = parseInt($hot_offers.css("left"));
+					if (currentLeft > (-1 * cellWidth * numberOfCells))
+						$hot_offers.css("left", (currentLeft - 25) + "px");
+				}, 50);
+			});
+			
+			$("#hot_offer_left").bind("mouseup mouseleave", function() {
+				clearInterval(slideHandle);
+			});
+			$("#hot_offer_right").bind("mouseup mouseleave", function() {
+				clearInterval(slideHandle);
+			});
+			
+			var head = document.getElementsByTagName('head')[0];
+			var styleElement = document.createElement('style');
+			var rules = document.createTextNode('#hot_offer_left, #hot_offer_right { background-color: #e5e5e5; color: #666666; cursor: pointer; font-size: 3em; text-decoration: none; } #hot_offer_left:before { content: "<"; } #hot_offer_right:before { content: ">"; }');
+			styleElement.type = 'text/css';
+			if (styleElement.styleSheet)
+				styleElement.styleSheet.cssText = rules.nodeValue;
+			else
+				styleElement.appendChild(rules);
+			head.appendChild(styleElement);
+		}
+	}
+	
+};
+
+$(function() {
+	});
